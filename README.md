@@ -68,6 +68,39 @@ A contact management system that supports:
 ---
 
 ## ▶️ How to Run
+## ▶️ How to Run
+
+Run any project using:
+
+```bash
+python filename.py
+```
+
+### Examples
+
+Run To-Do List:
+
+```bash
+python todo.py
+```
+
+Run Calculator:
+
+```bash
+python calculator.py
+```
+
+Run Rock Paper Scissors Game:
+
+```bash
+python rock_paper_scissors.py
+```
+
+Run Contact Book:
+
+```bash
+python contact_book.py
+```
 
 Run any project using:
 
